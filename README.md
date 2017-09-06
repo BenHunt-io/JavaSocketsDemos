@@ -1,5 +1,5 @@
 # JavaSocketsDemos
-Demonstrates various design patterns.  
+Demos Covering Java Sockets & Networking.  
 **Text:** Head First Design Patterns.  
 **Videos:** Derek Banas (Youtube).  
 **Purpose:** To better myself.  
